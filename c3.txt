@@ -1,2 +1,6 @@
+ <<<<<<< HEAD
 
 changes in master
+=======
+c3
+>>>>>>> first

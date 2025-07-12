@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 changes in master
 
+=======
+a2.txt
+>>>>>>> first

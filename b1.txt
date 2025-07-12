@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes in master 
+=======
+b1
+>>>>>>> first
